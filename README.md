@@ -35,11 +35,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>
-    <!--<a href="https://es.reactjs.org" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="ReactJS" width="40" height="40" /></a>
-    <a href="https://www.reactjs.org" target="_blank" rel="noreferrer"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png?20170919082558"
-            alt="vue3" width="40" height="40" /></a>-->
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="40" height="40" /> </a>
@@ -49,18 +44,18 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="40" height="40" /> </a>
-   <!-- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
+    <a href="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
             width="40" height="40" />
-    </a> -->
+    </a> 
 </p>
 <p>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" style="width:60%; height: 100%"
-            src="https://github-readme-stats.vercel.app/api?username=SteamnGFX&show_icons=true&theme=tokyonight&locale=es" /></a>
+            src="https://github-readme-stats.vercel.app/api?username=PauloVG08&show_icons=true&theme=tokyonight&locale=es" /></a>
     <img align="center" style="width:25%; height: 100%"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteamnGFX&locale=es" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVG08&locale=es" />
 
 </p>
 <br>
