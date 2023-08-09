@@ -8,9 +8,9 @@
 <h3 align="center"><b>Mis certificaciones</b></h3>
 <p align="center">Algunos de los cursos y certificaciones que he obtenido.</p>
 <p align="center">
-    <img src='https://drive.google.com/file/d/16YdH7jcqBh4QfD9PHInL3IqBIYRjG6tz/view?usp=drive_link'
+    <img src='https://drive.google.com/uc?id=1Mj-tvE021ulTaDyVdqmltsClTWkVoOg3'
         width="169" height="169" align="center">
-    <img src='https://drive.google.com/file/d/1Mj-tvE021ulTaDyVdqmltsClTWkVoOg3/view?usp=drive_link'
+    <img src='https://drive.google.com/uc?id=tvE021ulTaDyVdqmltsClTWkVoOg3'
         width="169" height="169" align="center">
 </p>
 <br>
