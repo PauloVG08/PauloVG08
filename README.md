@@ -45,7 +45,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="40" height="40" /> </a>
     <a href="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
+            src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python"
             width="40" height="40" />
     </a> 
 </p>
