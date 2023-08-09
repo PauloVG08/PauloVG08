@@ -45,6 +45,10 @@
             src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python"
             width="40" height="40" />
     </a> 
+    <a href="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" target="_blank" rel="noreferrer"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker"
+            width="40" height="40" />
+    </a> 
 </p>
 <p>
 <p align="center">
