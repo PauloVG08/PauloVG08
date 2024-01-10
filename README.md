@@ -44,6 +44,15 @@
     <a href="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" target="_blank" rel="noreferrer"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python"
             width="40" height="40" />
+    <a href="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" target="_blank" rel="noreferrer"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular"
+            width="40" height="40" />
+    <a href="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" target="_blank" rel="noreferrer"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript"
+            width="40" height="40" />
+    <a href="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" target="_blank" rel="noreferrer"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs"
+            width="40" height="40" />
     </a> 
     <a href="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" target="_blank" rel="noreferrer"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker"
