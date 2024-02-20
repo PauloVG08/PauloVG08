@@ -9,11 +9,11 @@
 <p align="center">Algunos de los cursos y certificaciones que he obtenido.</p>
 <p align="center">
     <img src='https://drive.google.com/uc?id=1Mj-tvE021ulTaDyVdqmltsClTWkVoOg3'
-        width="169" height="130" align="center" alt="img_certificado">
+        width="169" height="130" align="center" alt="img_certificado_mongo">
     <img src='https://drive.google.com/uc?id=16YdH7jcqBh4QfD9PHInL3IqBIYRjG6tz'
-        width="169" height="130" align="center" alt="img_certificado">
-    <img src='https://drive.google.com/uc?id=1-PAVxjsgMnxyVmbP-yp6YzkpUQn2NC8P'
-     width="169" height="130" align="center" alt="img_certificado">
+        width="169" height="130" align="center" alt="img_certificado_java">
+    <img src='https://drive.google.com/uc?id=1rWEjrKxo2pTUezqYDNYSNEhWv7qbwOpr'
+     width="169" height="130" align="center" alt="img_certificado_python">
 </p>
 <br>
 <hr>
